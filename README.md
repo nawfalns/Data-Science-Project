@@ -4,16 +4,6 @@ Nawfal Khan Basheer Mohamed
 Student ID: 23025098
 University of Hertfordshire
 
-# Derivative Acknowledgment
-This project is a derivative work based on open-source projects and academic research listed above.
-There are no additional contributors; all development, adaptation, and experimentation were done independently.
-
-
-This repository presents a project built from scratch to compare segmentation models for road segmentation on urban scenes using the Cityscapes dataset. The project evaluates **ResNet-based U-Net** and **U-Net** using key performance metrics—specifically, Intersection over Union (IoU).
-
----
-
-## Introduction
 
 Segmentation is a crucial task in the fields of autonomous driving and urban scene analysis. In this project, two segmentation architectures are evaluated:
 
